@@ -10,8 +10,8 @@
 <h3>🌐 Redes Sociais</h3>
 Me Segue no Insta! 😀 <br>
 <br>
-<a href="https://instagram.com/eloiluizh" target="_blank"><img src="https://img.shields.io/badge/Instagram-e8424e?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="mailto:eloiluizhegner@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d44638?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/eluizn.x" target="_blank"><img src="https://img.shields.io/badge/Instagram-e8424e?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="mailto:eloiluizh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d44638?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <!--
 **eloiluizh/EloiluizH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
